@@ -157,13 +157,3 @@ Análisis del texto:
 - Primera letra: H
 - Última letra: 3
 ```
-
----
-
-## Notas para el Profesor:
-
-- Los ejercicios están ordenados de menor a mayor complejidad
-- Cada ejercicio se enfoca en practicar los tipos de datos básicos (int, float, str)
-- Se incluyen tanto ciclos `for` como `while` en diferentes contextos
-- Los ejercicios fomentan el pensamiento lógico y la resolución de problemas
-- Puedes modificar los ejemplos según el nivel de tu grupo
