@@ -1,0 +1,1 @@
+print("hola, mundo!")  # This line prints a greeting message
